@@ -1,0 +1,7 @@
+{
+  "name": "myCordovaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
